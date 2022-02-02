@@ -1,0 +1,48 @@
+p {
+	color: grey;
+}
+h1 {
+	color: tomato;
+}
+a {
+	color: thistle;
+}
+.links {
+	color: yellow;
+}
+span {
+	color: red;
+}
+div.text {
+	color: saddlebrown;
+}
+.text {
+	color: skyblue;
+}
+p s {
+	color: teal;
+}
+#real {
+	color: yellowgreen;
+}
+#sha {
+	color: rgb(238, 130, 238);
+}
+#fut {
+	color: blue;
+}
+#last {
+	color: green;
+}
+p.maket {
+	color: lawngreen;
+}
+p.new {
+	color: black;
+}
+p.for {
+	color: blue;
+}
+p.three {
+	color: brown;
+}
